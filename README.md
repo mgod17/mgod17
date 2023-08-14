@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariano</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on **SQL**
+- 🔭 I’m currently working on *"MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://mgod17.github.io/](https://mgod17.github.io/)
 
